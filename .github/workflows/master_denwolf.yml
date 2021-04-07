@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'denwolf'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bdd54bbeccd94134b564dd83f92ce55b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_739ff7f5698e4c438bb54ce449751e0b }}
         package: .
